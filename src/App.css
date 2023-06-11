@@ -26,3 +26,20 @@ footer {
     margin-top: 100px;
 }
 
+.img_product {
+    width: 200px;
+    height: 200px;
+}
+.title_product{
+    text-align: center;
+}
+
+.card_product {
+    width: 200px;
+    height: 200px;
+}
+.price_product {
+    font-weight: bold;
+    text-align: center;
+}
+
