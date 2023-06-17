@@ -23,7 +23,11 @@ header .nav {
 footer {
     text-align: center;
     background: silver;
-    margin-top: 100px;
+    position:fixed;
+    left:0;
+    bottom:0;
+    height:30px;
+    width:100%;
 }
 
 .img_product {
@@ -41,5 +45,8 @@ footer {
 .price_product {
     font-weight: bold;
     text-align: center;
+}
+.product {
+    display: flex;
 }
 
